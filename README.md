@@ -75,8 +75,9 @@ This query finds most frequently requested skills in job postings
 | SQL | 79,174 |
 | R | 59,754 |
 | SAS | 29,642 |
-| Tableau | 29,513 |    
-Table of the demand for the top 5 skills in data scientist job postings
+| Tableau | 29,513 |  
+
+*Table of the demand for the top 5 skills in data scientist job postings*
 
 ## **4. The highest-paying skills** ##
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
@@ -142,7 +143,8 @@ ORDER BY average_salary DESC, demand_count DESC;
 | 8 | PyTorch | 115 | $152,603 |
 | 9 | Redshift | 36 | $151,708 |
 | 10 | TensorFlow | 126 | $151,536 |
-Table of the most optimal skills for data scientist sorted by salary
+
+*Table of the most optimal skills for data scientist sorted by salary*
 # What I Learned
 Through this project, I strengthened my SQL skills and developed my ability to analyze real-world job market data:
 
